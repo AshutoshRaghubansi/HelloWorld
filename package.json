@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build" : "webpack index.js -o dist/main.js" 
+    "build" : "webpack server.js -o dist/main.js" 
   },
   "repository": {
     "type": "git",
